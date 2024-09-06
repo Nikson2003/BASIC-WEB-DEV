@@ -1,0 +1,177 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Container for consistent padding and centering */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header styling */
+header {
+    background: #0056b3;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    float: left;
+    font-size: 1.8em;
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Hero section styling */
+.hero {
+    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background: #0056b3;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* About Us section styling */
+.about {
+    padding: 50px 0;
+    background: #e9ecef;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-content img {
+    max-width: 300px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.about p {
+    font-size: 1.2em;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Programs section styling */
+.programs {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.programs h2 {
+    margin-bottom: 20px;
+}
+
+.program {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    background: #f8f9fa;
+    margin: 0 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.program img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.program h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.program p {
+    font-size: 1em;
+}
+
+/* Admissions section styling */
+.admissions {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.admissions p {
+    font-size: 1.2em;
+}
+
+/* Contact section styling */
+.contact {
+    padding: 50px 0;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+.contact a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Footer styling */
+footer {
+    background: #0056b3;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
