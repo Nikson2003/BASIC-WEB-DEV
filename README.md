@@ -1,10 +1,10 @@
-# CODSOFT Internship - Level 1 Tasks
+# Web Development - Level 1 Tasks
 
-Welcome to my CODSOFT Internship repository! During my internship, I was tasked with completing three projects as part of Level 1. Below you will find descriptions of each task and links to the corresponding repositories or files where you can view the work completed.
+Welcome to my Basic Web Dev repository! Below you will find descriptions of each task and links to the corresponding repositories or files where you can view the work completed.
 
 ## Overview
 
-During this internship, I focused on developing my skills and completing the following tasks:
+I focused on developing my basic skills and completing the following tasks:
 
 1. **Task 1: Responsive Portfolio Website**
    - **Description:** Developed a responsive portfolio website showcasing my personal projects and skills. The site is designed to be user-friendly across various devices and screen sizes.
@@ -19,11 +19,7 @@ During this internship, I focused on developing my skills and completing the fol
 
 ## How to Use
 
-To view the tasks, simply click on the provided links. Each link directs you to the GitHub repository containing the project files and documentation.
-
-## Acknowledgements
-
-Thank you to CODSOFT for providing the opportunity to work on these tasks and gain valuable experience. I appreciate the support and guidance throughout the internship.
+To view the tasks, simply click on the provided links. Each link directs you to the GitHub repository containing the project files and documentation or to the site where they are hosted.
 
 ## Contact
 
